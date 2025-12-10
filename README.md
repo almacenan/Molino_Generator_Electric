@@ -1,22 +1,22 @@
-Version 1.1.0
+Version 1.1.1
 
-Este es el readme y se escribira aqui en modo de bitacora los avances del MOlino, actualmente se encuentra en un 50% del trabajo, 
+Este es el readme y se escribira aqui en modo de bitacora los avances del Molino, actualmente se encuentra en un 50% del trabajo, 
 y prontamente se empezara a producir energia, pero mas adelante se explicara mejor todo su configuracion.
 
-	#📘 README — Proyecto Molino Dicomático
-	#🔧 Estado actual
+	📘 README — Proyecto Molino Dicomático
+	🔧 Estado actual
 
 	El proyecto se encuentra aproximadamente al 50% de avance.
 	El objetivo es restaurar completamente el Molino familiar para que vuelva a producir energía de forma autónoma, combinando su estructura histórica con tecnología moderna.
 
 	Este documento funciona como una bitácora técnica y narrativa del proceso.
 
-	#🎯 Objetivos del Proyecto
-	# Objetivo General
+	🎯 Objetivos del Proyecto
+	Objetivo General
 
 	Restaurar, modernizar y poner en funcionamiento el Molino familiar como un sistema hidroeléctrico autónomo, operativo y sostenible, preservando su valor histórico y funcional.
 
-	## Objetivos Específicos
+	Objetivos Específicos
 
 	* Recuperar la estructura arquitectónica original del Molino respetando su diseño tradicional.
 
@@ -28,7 +28,7 @@ y prontamente se empezara a producir energia, pero mas adelante se explicara mej
 
 	* Documentar el proceso como memoria histórica y guía técnica del proyecto.
 
-	#🌀 Descripción general
+	🌀 Descripción general
 
 	El Molino Dicomático es la reconstrucción del molino construido por mi abuelo en la vereda Canelas (Tasco, Boyacá) hacia el año 1957.
 
@@ -44,7 +44,7 @@ y prontamente se empezara a producir energia, pero mas adelante se explicara mej
 
 		* Registro histórico del proceso, como homenaje al legado familiar.
 
-	#🛠️ Progreso técnico
+	🛠️ Progreso técnico
 		1. Limpieza y recuperación
 
 		Retiro de tierra acumulada por décadas.
@@ -115,7 +115,7 @@ y prontamente se empezara a producir energia, pero mas adelante se explicara mej
 
 			* Preparación para sellado y paso de cableado.
 
-		###📌 Tareas pendientes
+		📌 Tareas pendientes
 
 			* Terminar el último tramo del piso.
 
@@ -140,8 +140,8 @@ y prontamente se empezara a producir energia, pero mas adelante se explicara mej
 				* Control automático.
 			
 			
-	#🗺️ Roadmap del Proyecto
-	#✔ Etapas completadas
+	🗺️ Roadmap del Proyecto
+	✔ Etapas completadas
 
 		* Limpieza interna del Molino
 
@@ -157,7 +157,7 @@ y prontamente se empezara a producir energia, pero mas adelante se explicara mej
 
 		* Reconstrucción de la pared izquierda en piedra
 
-	#🔄 Etapas en curso
+	🔄 Etapas en curso
 
 		* Terminación del piso
 
@@ -169,7 +169,7 @@ y prontamente se empezara a producir energia, pero mas adelante se explicara mej
 
 		* Instalación de iluminación inferior
 		
-	#🚀 Etapas futuras
+	🚀 Etapas futuras
 
 		* Instalación del sistema hidroeléctrico (generador + turbina)
 
@@ -183,12 +183,12 @@ y prontamente se empezara a producir energia, pero mas adelante se explicara mej
 
 		* Sistema autónomo final
 
-	#📚 Bitácora extendida — Historia completa del Molino y su reconstrucción
+	📚 Bitácora extendida — Historia completa del Molino y su reconstrucción
 
 		A continuación, se incluye la historia íntegra, dividida por capítulos para que sea fácil de leer, preservar y compartir.
 		Todo lo que escribiste está aquí, corregido, organizado y respetando tu estilo personal.
 
-	#📜 Capítulo 1 — El principio del fin
+	📜 Capítulo 1 — El principio del fin
 
 		Todo inició hace aproximadamente 20 años. Yo tenía alrededor de 10 años y cursaba sexto o séptimo.
 		Recuerdo la primera vez que fui al Molino: estaba cubierto de maleza, árboles jóvenes y abandono. Fui con Andrés, mi amigo desde sexto, 
@@ -198,7 +198,7 @@ y prontamente se empezara a producir energia, pero mas adelante se explicara mej
 		Pasaron muchos años. Terminé colegio, universidad, etapa de fiestas, trabajos…
 		Y 23 meses atrás, en enero de 2023, decidí retomar el proyecto. No era solo restaurar algo viejo: era restaurar el legado del abuelo Eduardo Camacho.
 
-	#📜 Capítulo 2 — El abuelo Eduardo y el Molino original
+	📜 Capítulo 2 — El abuelo Eduardo y el Molino original
 
 		El Molino fue construido cerca de 1957, cinco años después de que mi abuelo comprara la vereda de Canelas en 1952.
 		Su construcción fue épica:
@@ -218,7 +218,7 @@ y prontamente se empezara a producir energia, pero mas adelante se explicara mej
 
 		El abuelo murió en 1971, y el techo del Molino empezó a caerse alrededor de 1977.
 
-	#📜 Capítulo 3 — Por qué nadie más lo vio
+	📜 Capítulo 3 — Por qué nadie más lo vio
 
 		#Opinión personal:
 
@@ -230,7 +230,7 @@ y prontamente se empezara a producir energia, pero mas adelante se explicara mej
 		No era viable.
 		Hoy sí con una metodologia y forma diferente, pero posible.
 
-	#📜 Capítulo 4 — Regreso al Molino
+	📜 Capítulo 4 — Regreso al Molino
 
 		De niño, el lugar era misterioso. Recuerdo el marco de la puerta todavía firme.
 		Pero en 2023, decidí empezar.
@@ -242,7 +242,7 @@ y prontamente se empezara a producir energia, pero mas adelante se explicara mej
 		Generalmente iba solo, de noche, con linterna de celular.
 		Pero Andrés estuvo ahí el 60% del tiempo. Gracias a él logramos recolocar la roca enorme en su sitio original.
 
-	#📜 Capítulo 5 — La roca: la parte más peligrosa
+	📜 Capítulo 5 — La roca: la parte más peligrosa
 
 		La roca circular estaba de medio lado. La base estaba fija.
 		Se necesitó:
@@ -259,7 +259,7 @@ y prontamente se empezara a producir energia, pero mas adelante se explicara mej
 
 		Pero lo logramos: la roca volvió a su lugar después de décadas.
 
-	#📜 Capítulo 6 — Limpieza, paredes y el techo
+	📜 Capítulo 6 — Limpieza, paredes y el techo
 
 		Se sacó toda la tierra interna. Se cortaron árboles creciendo por dentro (eucalipto = raíces durísimas).
 		Luego empezaron las reparaciones:
@@ -272,7 +272,7 @@ y prontamente se empezara a producir energia, pero mas adelante se explicara mej
 
 		En ese proceso vi mi primer alacrán en 30 años. Pequeño, blanco, cola doblada.
 
-	#📜 Capítulo 7 — La electricidad
+	📜 Capítulo 7 — La electricidad
 
 		Con cable calibre 10 AWG:
 
@@ -294,7 +294,7 @@ y prontamente se empezara a producir energia, pero mas adelante se explicara mej
 
 		Circuito adicional para equipos futuros.
 
-	#📜 Capítulo 8 — El piso
+	📜 Capítulo 8 — El piso
 
 		Primer tramo:
 
@@ -320,7 +320,7 @@ y prontamente se empezara a producir energia, pero mas adelante se explicara mej
 
 		Refuerzo estructural.
 
-	#📜 Capítulo 9 — La cámara inferior
+	📜 Capítulo 9 — La cámara inferior
 
 		Reactivar la entrada original del agua fue clave.
 
@@ -341,7 +341,7 @@ y prontamente se empezara a producir energia, pero mas adelante se explicara mej
 
 		Tubos hacia electro-válvula, generador y sensores.
 
-	#📜 Capítulo 10 — La pared crítica abandonada 12 meses
+	📜 Capítulo 10 — La pared crítica abandonada 12 meses
 
 		Ese lado tenía 4 huecos enormes y una sección completa caída.
 		Lo reconstruí:
@@ -356,7 +356,7 @@ y prontamente se empezara a producir energia, pero mas adelante se explicara mej
 
 		Refuerzo general.
 
-	#📜 Capítulo 11 — Estado al día de hoy
+	📜 Capítulo 11 — Estado al día de hoy
 
 		El avance es gigante comparado con el punto de partida.
 
